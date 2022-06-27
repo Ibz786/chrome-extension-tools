@@ -7,6 +7,14 @@ Extension ecosystem. This repo houses two bundling libraries: a
 [modern Vite plugin](./packages/vite-plugin/README.md) and a
 [legacy Rollup plugin](./packages/rollup-plugin/README.md).
 
+[Get Started in 90 seconds.](https://crxjs.dev/vite-plugin)
+
+## Features
+
+If you're starting a new Chrome Extension project, consider using
+[`@crxjs/vite-plugin`](https://crxjs.dev/vite-plugin). This Vite plugin brings
+all the features of Vite to the Chrome Extension developer experience.
+
 |                               |                                          [`@crxjs/vite-plugin`](./packages/vite-plugin/README.md)                                           |                                         [`rollup-plugin-chrome-extension`](./packages/rollup-plugin/README.md)                                          |
 | :---------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Works on                      |                                                        [Vite](https://vitejs.dev) ⚡                                                        |                                                             [Rollup](https://rollupjs.org)                                                              |
@@ -17,12 +25,7 @@ Extension ecosystem. This repo houses two bundling libraries: a
 | MV2                           |                                                                      -                                                                      |                                                                           Yes                                                                           |
 | Auto Web-accessible Resources |                                                                     Yes                                                                     |                                                                            -                                                                            |
 | Documentation                 |                                           [CRXJS Vite Plugin Docs](https://crxjs.dev/vite-plugin)                                           |                                              [Extend Chrome Docs](https://www.extend-chrome.dev/rollup-plugin)                                              |
-| NPM                           | [![npm (scoped)](https://img.shields.io/npm/v/@crxjs/vite-plugin/latest.svg)](https://www.npmjs.com/package/rollup-plugin-chrome-extension) | [![npm (scoped)](https://img.shields.io/npm/v/rollup-plugin-chrome-extension/latest.svg)](https://www.npmjs.com/package/rollup-plugin-chrome-extension) |
-
-If you're starting a new Chrome Extension project, consider using
-[`@crxjs/vite-plugin`](https://crxjs.dev/vite-plugin). This Vite plugin brings
-all the features of Vite to the Chrome Extension developer experience.
-[Get Started in 90 seconds.](https://crxjs.dev/vite-plugin)
+| NPM                           | [![npm (scoped)](https://img.shields.io/npm/v/@crxjs/vite-plugin/latest.svg)](https://www.npmjs.com/package/@crxjs/vite-plugin) | [![npm (scoped)](https://img.shields.io/npm/v/rollup-plugin-chrome-extension/latest.svg)](https://www.npmjs.com/package/rollup-plugin-chrome-extension) |
 
 ## Supporting
 
